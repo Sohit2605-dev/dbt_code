@@ -1,6 +1,0 @@
-{{
-    config(
-        materialiZed='table'
-    )
-}}
-select 2 id, 'rep' nme
